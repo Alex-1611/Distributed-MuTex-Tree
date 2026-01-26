@@ -1,0 +1,9 @@
+bool using
+
+holder (0 - self, id - node)
+
+request_q
+
+asked
+
+argv: holder (or for self or port), self_port, neighbour ports
